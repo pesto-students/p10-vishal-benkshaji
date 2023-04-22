@@ -15,7 +15,7 @@ function printName() {
 printName.call(obj1);
 printName.call(obj2);
 
-//* passing arguments
+//* passing arguments.
 function printNameAndPlace(place) {
   console.log(this.name + " from " + place);
 }
