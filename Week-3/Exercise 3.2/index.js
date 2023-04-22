@@ -1,11 +1,11 @@
 //! ---------------call---------------
 //* function reusing
 const obj1 = {
-  name: "joe",
+  name: "ben",
 };
 
 const obj2 = {
-  name: "geo",
+  name: "benet",
 };
 
 function printName() {
